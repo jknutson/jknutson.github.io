@@ -1,0 +1,13 @@
+/* Step 1: Common Properties: All required to make icons render reliably */
+a[target=_blank]::after {
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Step 2: Reference Individual Icons */
+a[target=_blank]::after {
+  font: var(--fa-font-solid);
+  content: "\f08e";
+  padding-left: 3pt;
+}
