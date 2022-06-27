@@ -6,16 +6,17 @@ gantt
     title       Adding GANTT diagram functionality to mermaid
 
     section Basswood (Linden)
-    Scout Seeds         :2022-06-20, 40d
-    Collect Seeds       :2022-09-01, 120d
+    Scout Seeds         :ldn1, 2022-06-20, 40d
+    Collect Seeds       :ldn2, 2022-09-01, 120d
+    click ldn1 href trees/linden.md
 
     section Black Walnut
-    Scout Seeds         :2022-07-01, 30d
-    Collect Seeds       :2022-10-01, 30d
+    Scout Seeds         :bw1, 2022-07-01, 30d
+    Collect Seeds       :bw2, 2022-10-01, 30d
 
     section White Spruce
-    Scout Seeds         :2022-06-01, 30d
-    Collect Seeds       :2022-08-20, 40d
+    Scout Seeds         :ws1, 2022-06-01, 30d
+    Collect Seeds       :ws2, 2022-08-20, 40d
 
 ```
 
