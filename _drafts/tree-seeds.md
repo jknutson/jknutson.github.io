@@ -1,9 +1,11 @@
-# Tree Seedling Collection Guide
+# Tree Seedling Collection
+
+Collecting Tree Seedlings is an excellent and cost-effective way to learn about and propagate trees!
 
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       Adding GANTT diagram functionality to mermaid
+    title       Tree Seedling Collection Calendar
 
     section Basswood (Linden)
     Scout Seeds         :ldn1, 2022-06-20, 40d
