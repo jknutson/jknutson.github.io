@@ -37,6 +37,10 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 excerpt_separator: <!--snippet-->
 
+collections:
+  tree_species:
+    output: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
