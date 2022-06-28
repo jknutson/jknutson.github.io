@@ -10,7 +10,6 @@ gantt
     section Basswood (Linden)
     Scout Seeds         :ldn1, 2022-06-20, 40d
     Collect Seeds       :ldn2, 2022-09-01, 120d
-    click ldn1 href "trees/linden.md"
 
     section Black Walnut
     Scout Seeds         :bw1, 2022-07-01, 30d
