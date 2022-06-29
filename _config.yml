@@ -28,6 +28,10 @@ url: "https://jknutson.github.io" # the base hostname & protocol for your site, 
 github_username:  jknutson
 google_tag: G-Y8SNDD0XP0
 
+gems: [jekyll-mermaid]
+mermaid:
+  src: 'assets/mermaid.js'
+
 # Build settings
 # theme: minima
 plugins:

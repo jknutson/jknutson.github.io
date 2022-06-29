@@ -1,4 +1,10 @@
-# Tree Seedling Collection
+# Trees
+
+Trees are neat.
+
+<!--snippet-->
+
+## Seedling Collection
 
 Collecting Tree Seedlings is an excellent and cost-effective way to learn about and propagate trees!
 
@@ -21,7 +27,14 @@ gantt
 
 ```
 
-# References
+## Species
+
+{% for tree in site.tree_species %}
+  <h2>{{ tree.name }} - {{ tree.type }} ({{ tree.status }})</h2>
+  <p>{{ tree.content | markdownify }}</p>
+{% endfor %}
+
+## References
 
 - https://dnr.wisconsin.gov/sites/default/files/topic/TreePlanting/SeedCollectionTraining.pdf
 - https://www.dnr.state.mn.us/forestry/nursery/collecting-conifer-cone.html

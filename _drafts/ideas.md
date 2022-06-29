@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  'ideas'
-date:
+date: 2022-01-01
 author: 'John Knutson'
-tags:
 ---
 
 - water system tour
