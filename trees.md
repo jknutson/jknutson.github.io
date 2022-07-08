@@ -42,3 +42,4 @@ gantt
 - [https://dnr.wisconsin.gov/sites/default/files/topic/TreePlanting/SeedCollectionTraining.pdf](https://dnr.wisconsin.gov/sites/default/files/topic/TreePlanting/SeedCollectionTraining.pdf)
 - [https://www.dnr.state.mn.us/forestry/nursery/collecting-conifer-cone.html](https://www.dnr.state.mn.us/forestry/nursery/collecting-conifer-cone.html)
 - [https://www.dnr.state.mn.us/forestry/nursery/collecting-deciduous-seed.html](https://www.dnr.state.mn.us/forestry/nursery/collecting-deciduous-seed.html)
+- [https://en.wikipedia.org/wiki/Juglans_nigra](https://en.wikipedia.org/wiki/Juglans_nigra)
