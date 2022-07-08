@@ -3,18 +3,18 @@ name: Trees
 ---
 # Trees
 
-Trees are neat.
+Trees are terrific!
 
 <!--snippet-->
 
-## Seedling Collection
+## Seed Collection
 
-Collecting Tree Seedlings is an excellent and cost-effective way to learn about and propagate trees!
+The collection of tree seeds is an excellent and cost-effective way to learn about and propagate trees.
 
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       Tree Seedling Collection Calendar
+    title       Tree Seed Collection Calendar
 
     section Basswood (Linden)
     Scout Seeds         :ldn1, 2022-06-20, 40d
@@ -33,12 +33,12 @@ gantt
 ## Species
 
 {% for tree in site.tree_species %}
-  <h2>{{ tree.name }} - {{ tree.type }} ({{ tree.status }})</h2>
-  <p>{{ tree.content | markdownify }}</p>
+### {{ tree.name }} - {{ tree.type }} ({{ tree.status }})
+{{ tree.content | markdownify }}
 {% endfor %}
 
 ## References
 
-- https://dnr.wisconsin.gov/sites/default/files/topic/TreePlanting/SeedCollectionTraining.pdf
-- https://www.dnr.state.mn.us/forestry/nursery/collecting-conifer-cone.html
-- https://www.dnr.state.mn.us/forestry/nursery/collecting-deciduous-seed.html
+- [https://dnr.wisconsin.gov/sites/default/files/topic/TreePlanting/SeedCollectionTraining.pdf](https://dnr.wisconsin.gov/sites/default/files/topic/TreePlanting/SeedCollectionTraining.pdf)
+- [https://www.dnr.state.mn.us/forestry/nursery/collecting-conifer-cone.html](https://www.dnr.state.mn.us/forestry/nursery/collecting-conifer-cone.html)
+- [https://www.dnr.state.mn.us/forestry/nursery/collecting-deciduous-seed.html](https://www.dnr.state.mn.us/forestry/nursery/collecting-deciduous-seed.html)
